@@ -1,2 +1,2 @@
 # demo-2
-this is my second practise repository
+this is my second practise reposito
